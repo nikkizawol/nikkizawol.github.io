@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+}
+
+
+.bluerow {
+  background-color: #592A8A;
+  display: flex;
+  margin: 20px;
+  height: 100%
+}
+
+.row {
+  display: flex;
+  margin:20;
+  height: 100%
+}
+
+
+.greyrow {
+background-color: lightgray;
+  display: flex;
+margin: 20px;
+  height: 100%
+}
+
+.description {
+  color: black;
+  font-size: 18 px;
+  font-family: 'Open Sans', sans-serif;
+  margin-right: 10px;
+  margin-left: 20px;
+  width: 50%
+}
+
+.footer {
+  color: black;
+  font-size: 18 px;
+  font-family:  'Open Sans', sans-serif;
+  margin: 20px;
+  width: 100%
+}
+
+.email {
+  color: black;
+  font-size: 18 px;
+  font-family:  'Open Sans', sans-serif;
+  margin: 20px;
+  text-align: right;
+  width: 50%
+}
+
+.image > img {
+  border: 2px black;
+  margin-left: 20px;
+  width: 100%
+  height: 100%
+}
+
+h1 {
+	color: #FFC702;
+}
